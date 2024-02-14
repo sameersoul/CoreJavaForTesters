@@ -1,5 +1,3 @@
-Certainly! Here's the revised README.md file with instructions on how users can navigate through the project folders using Eclipse:
-
 # CoreJavaForTesters
 
 Welcome to the **CoreJavaForTesters** project! This repository is designed to help you practice and reinforce your understanding of core Java concepts essential for software testing interviews. Whether you're preparing for an interview or simply looking to strengthen your Java skills, this project provides a structured approach to learning and practicing key concepts.
